@@ -31,7 +31,11 @@ $ git clone https://github.com/breatheco-de/exercise-collaborative-html-website.
 In order to watch the website live run the following command:
 
 ```bash
+<<<<<<< HEAD
 $ npx --yes http-server -c-1
+=======
+git push origin main
+>>>>>>> f34ec630033889a4323f97439d5ed2c6c62c2926
 ```
 
 ## Deploy the website
@@ -46,3 +50,4 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+## 💻 Run the website
